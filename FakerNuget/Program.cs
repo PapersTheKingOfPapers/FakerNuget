@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using Faker;
+using CommandLine;
 
 namespace FakerNuget
 {
@@ -9,11 +10,28 @@ namespace FakerNuget
     {
         static void Main(string[] args)
         {
-            GeneratePerson();
-            GeneratePerson();
-            GeneratePerson();
+            Parser.Default.ParseArguments<CommandLine>(args).WithParsed<CommandLine>(o =>
+            {
+                if (o.Interactive)
+                {
+                    Console.WriteLine("How many fake people would you like to print?");
+                    int amount = Convert.ToInt32(Console.ReadLine());
+                    for(int i = 0; i < amount; i++)
+                    {
+                        GeneratePerson();
+                    }
+                }
+                else if(!string.IsNullOrEmpty(o.personCount))
+                {
+                    int x = Convert.ToInt32(o.personCount);
+                    for (int i = 0; i < x; i++)
+                    {
+                        GeneratePerson();
+                    }
+                }
+            });
 
-            Console.WriteLine("Press any key to close this window...");
+            Console.WriteLine("Press enter to close this window...");
             Console.ReadLine();
         }
 

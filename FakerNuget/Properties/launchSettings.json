@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FakerNuget": {
+      "commandName": "Project",
+      "commandLineArgs": "--personCount=3"
+    }
+  }
+}

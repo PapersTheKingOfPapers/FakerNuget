@@ -17,3 +17,9 @@ C:\Users\s2001019\source\repos\FakerNuget\FakerNuget\obj\Debug\net5.0\FakerNuget
 C:\Users\s2001019\source\repos\FakerNuget\FakerNuget\obj\Debug\net5.0\ref\FakerNuget.dll
 C:\Users\s2001019\source\repos\FakerNuget\FakerNuget\obj\Debug\net5.0\FakerNuget.pdb
 C:\Users\s2001019\source\repos\FakerNuget\FakerNuget\obj\Debug\net5.0\FakerNuget.genruntimeconfig.cache
+C:\Users\s2001019\source\repos\FakerNuget\FakerNuget\bin\Debug\net5.0\CommandLine.dll
+C:\Users\s2001019\source\repos\FakerNuget\FakerNuget\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+C:\Users\s2001019\source\repos\FakerNuget\FakerNuget\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\s2001019\source\repos\FakerNuget\FakerNuget\bin\Debug\net5.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\s2001019\source\repos\FakerNuget\FakerNuget\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\s2001019\source\repos\FakerNuget\FakerNuget\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll

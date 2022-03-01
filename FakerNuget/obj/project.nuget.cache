@@ -1,12 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "7m0kFDGuiN/UNe4ETN8ibTJjcGKST408GsouZfJfd9rBj/0zaxTU44HJD65qIR2A/RamYCH72CCDcQwbXJKmlA==",
+  "dgSpecHash": "QX5oShO+HvCvXANSN//Kt1qByBsA6azyRIFgnOCjVPhgnunGWVnKNuIqYry/q6HAMzXjSNuEOIk2jlQ3ajQT+g==",
   "success": true,
   "projectFilePath": "C:\\Users\\s2001019\\source\\repos\\FakerNuget\\FakerNuget\\FakerNuget.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\s2001019\\.nuget\\packages\\commandlineparser\\2.8.0\\commandlineparser.2.8.0.nupkg.sha512",
     "C:\\Users\\s2001019\\.nuget\\packages\\faker.net\\2.0.154\\faker.net.2.0.154.nupkg.sha512",
+    "C:\\Users\\s2001019\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",
+    "C:\\Users\\s2001019\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\s2001019\\.nuget\\packages\\microsoft.extensions.configuration.commandline\\6.0.0\\microsoft.extensions.configuration.commandline.6.0.0.nupkg.sha512",
+    "C:\\Users\\s2001019\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "C:\\Users\\s2001019\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\s2001019\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\s2001019\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\s2001019\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }
